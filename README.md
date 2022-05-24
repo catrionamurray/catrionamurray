@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### I'm Catriona 👋
+-------------
 <!--
 **catrionamurray/catrionamurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a postdoctoral researcher at the University of Colorado Boulder studying exoplanets and their atmospheres 🔭
