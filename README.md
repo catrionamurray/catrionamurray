@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm a postdoctoral researcher at the University of Colorado Boulder studying exoplanets and their atmospheres 🔭
 
 
-<!--[![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)]-->
+<!--[![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)]
 
 ![](https://github.com/catrionamurray/snk/raw/output/dist/github-snake.svg)
 
 github-snake.svg
-![Snake animation](https://github.com/catrionamurray/catrionamurray/blob/output/github-snake.svg)
+![Snake animation](https://github.com/catrionamurray/catrionamurray/blob/output/github-snake.svg)-->
