@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a postdoctoral researcher at the University of Colorado Boulder studying exoplanets and their atmospheres 🔭
+
+
+[![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/catrionamurray/snk/raw/output/github-contribution-grid-snake.gif)
